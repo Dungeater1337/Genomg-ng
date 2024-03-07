@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\responsiv-design\responsiv-design\responsiv-design\formul-r\Genomg-ng\bin\Debug\net7.0\Genomg-ng.exe
+C:\Users\Admin\Documents\GitHub\responsiv-design\responsiv-design\responsiv-design\formul-r\Genomg-ng\bin\Debug\net7.0\Genomg-ng.deps.json
+C:\Users\Admin\Documents\GitHub\responsiv-design\responsiv-design\responsiv-design\formul-r\Genomg-ng\bin\Debug\net7.0\Genomg-ng.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\responsiv-design\responsiv-design\responsiv-design\formul-r\Genomg-ng\bin\Debug\net7.0\Genomg-ng.dll
+C:\Users\Admin\Documents\GitHub\responsiv-design\responsiv-design\responsiv-design\formul-r\Genomg-ng\bin\Debug\net7.0\Genomg-ng.pdb
+C:\Users\Admin\Documents\GitHub\responsiv-design\responsiv-design\responsiv-design\formul-r\Genomg-ng\obj\Debug\net7.0\Genomg-ng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\responsiv-design\responsiv-design\responsiv-design\formul-r\Genomg-ng\obj\Debug\net7.0\Genomg-ng.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\responsiv-design\responsiv-design\responsiv-design\formul-r\Genomg-ng\obj\Debug\net7.0\Genomg-ng.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\responsiv-design\responsiv-design\responsiv-design\formul-r\Genomg-ng\obj\Debug\net7.0\Genomg-ng.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\responsiv-design\responsiv-design\responsiv-design\formul-r\Genomg-ng\obj\Debug\net7.0\Genomg-ng.dll
+C:\Users\Admin\Documents\GitHub\responsiv-design\responsiv-design\responsiv-design\formul-r\Genomg-ng\obj\Debug\net7.0\refint\Genomg-ng.dll
+C:\Users\Admin\Documents\GitHub\responsiv-design\responsiv-design\responsiv-design\formul-r\Genomg-ng\obj\Debug\net7.0\Genomg-ng.pdb
+C:\Users\Admin\Documents\GitHub\responsiv-design\responsiv-design\responsiv-design\formul-r\Genomg-ng\obj\Debug\net7.0\Genomg-ng.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\responsiv-design\responsiv-design\responsiv-design\formul-r\Genomg-ng\obj\Debug\net7.0\ref\Genomg-ng.dll

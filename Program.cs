@@ -6,7 +6,21 @@ class Program
 {
     static void Main(string[] args)
     {
-        Fordon fordon = new Fordon("Toyota");
-        Console.WriteLine(fordon.Märke);
+        List<Fordon> fordonslista = new();
+
+        Bil bil = new Bil("Toyota", "Supra");
+        Fordon f2 = new Bil("BMW", "Tursimo");
+        fordonslista.Add(bil);
+        fordonslista.Add(f2);
+
+
+        foreach (var fordon in fordonslista)
+        {
+            fordon.Kör();
+        }
+
+
     }
 }
+
+

@@ -1,6 +1,6 @@
 namespace Genomg_ng
 {
-    public class Fordon
+    public abstract class Fordon
     {
         protected string märke;
 
@@ -9,9 +9,13 @@ namespace Genomg_ng
             this.märke = märke; 
         }
 
+        
         public string Märke
         {
+            set{märke = value;}
             get{return märke;}
         }
+
+        public abstract void Kör();
     }
 }
